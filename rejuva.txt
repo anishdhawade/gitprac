@@ -1,2 +1,7 @@
 123456789
+<<<<<<< HEAD
 Wellfair
+=======
+Plump&Glow
+Dilutop
+>>>>>>> REL_1.1
